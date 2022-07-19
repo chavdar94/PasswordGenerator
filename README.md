@@ -13,7 +13,11 @@
 ### Main window (generating password)
 ![main_window](https://user-images.githubusercontent.com/106109451/179806677-bccc7dd7-0673-44f4-941a-dceba3363eff.png)
 
+### Generated password
+![password_generated](https://user-images.githubusercontent.com/106109451/179809087-de7b4de8-b9fb-437a-a7d5-7900c75b84f4.png)
 
+### Found password by website name
+![found_password](https://user-images.githubusercontent.com/106109451/179809122-6f3a88cd-0082-4210-9fd9-68ba32d714f7.png)
 
 ### Second window (searching for website password)
 ![search_window](https://user-images.githubusercontent.com/106109451/179806714-8c87879e-c157-4c5b-bd4c-34878a3293e0.png)
