@@ -11,10 +11,11 @@
 
 
 ### Main window (generating password)
-<img src="https://imgur.com/a/mAX7izk">
+![main_window](https://user-images.githubusercontent.com/106109451/179806677-bccc7dd7-0673-44f4-941a-dceba3363eff.png)
+
 
 
 ### Second window (searching for website password)
-![](../../Pictures/Snipping Tool/search_window.png)
+![search_window](https://user-images.githubusercontent.com/106109451/179806714-8c87879e-c157-4c5b-bd4c-34878a3293e0.png)
 
 As this is my first app project it may have bugs. Feel free to fix them! :)
