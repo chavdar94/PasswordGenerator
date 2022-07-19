@@ -11,7 +11,7 @@
 
 
 ### Main window (generating password)
-![](../../Pictures/Snipping Tool/main_window.png)
+![](https://imgur.com/a/mAX7izkg)
 
 
 ### Second window (searching for website password)
