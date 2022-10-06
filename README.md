@@ -1,4 +1,4 @@
-# This is my firs mini project! It is a simple password generator!
+# This is my first mini project! It is a simple password generator!
 
 * The app generates a password with a length, website for it and e-mail from user input.
 
